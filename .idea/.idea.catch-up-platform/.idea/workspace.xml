@@ -4,30 +4,104 @@
     <projectFile profileName="http">CatchUpPlatform.API/CatchUpPlatform.API.csproj</projectFile>
     <projectFile profileName="https">CatchUpPlatform.API/CatchUpPlatform.API.csproj</projectFile>
   </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="CMakeProjectFlavorService">
+    <option name="flavorId" value="CMakePlainProjectFlavor" />
+  </component>
+  <component name="CMakeSettings">
+    <configurations />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="7081a2cb-95fd-4d18-92a5-f668c01131d8" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CatchUpPlatform.API/CatchUpPlatform.API.csproj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CatchUpPlatform.API/CatchUpPlatform.API.http" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CatchUpPlatform.API/Controllers/WeatherForecastController.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CatchUpPlatform.API/Program.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CatchUpPlatform.API/Properties/launchSettings.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CatchUpPlatform.API/WeatherForecast.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CatchUpPlatform.API/appsettings.Development.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CatchUpPlatform.API/appsettings.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/catch-up-platform.sln" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CHANGELOD.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LICENSE.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.catch-up-platform/.idea/gitflow-helper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.catch-up-platform/.idea/gitflow-helper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.catch-up-platform/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.catch-up-platform/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CatchUpPlatform.API/CatchUpPlatform.API.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/CatchUpPlatform.API/CatchUpPlatform.API.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CatchUpPlatform.API/Controllers/WeatherForecastController.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CatchUpPlatform.API/WeatherForecast.cs" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="DpaMonitoringSettings">
+    <option name="firstShow" value="false" />
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="SET_USER_NAME_GLOBALLY" value="false" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="mock:///Immediate Window" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="McpProjectServerCommands">
     <commands />
     <urls />
+  </component>
+  <component name="MetaFilesCheckinStateConfiguration" checkMetaFiles="true" />
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.0" />
+      <entry key="MS500" value="1.000008256699504" />
+      <entry key="S2" value="1.1125807066017597" />
+      <entry key="S5" value="1.8004714664586932" />
+      <entry key="S10" value="2.566283530002863" />
+      <entry key="S30" value="4.931507850527096" />
+      <entry key="S60" value="10.317594086434793" />
+      <entry key="M2" value="20.92104997451718" />
+      <entry key="M5" value="39.31667138153077" />
+      <entry key="M10" value="51.334185892971476" />
+      <entry key="M15" value="56.61066197476457" />
+      <entry key="M30" value="62.7627752188795" />
+      <entry key="H1" value="66.23033987918308" />
+      <entry key="H2" value="68.07524304734466" />
+      <entry key="H4" value="69.02735245542024" />
+      <entry key="D1" value="69.83644060164191" />
+      <entry key="W1" value="69.97659849082632" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="4.0140688494805307E-13" />
+      <entry key="MS500" value="0.0034458134366144562" />
+      <entry key="S2" value="0.35327897861336477" />
+      <entry key="S5" value="1.170851788561679" />
+      <entry key="S10" value="2.044091512357728" />
+      <entry key="S30" value="3.998534882207172" />
+      <entry key="S60" value="5.701083161007649" />
+      <entry key="M2" value="7.5584150112187585" />
+      <entry key="M5" value="10.091641769851956" />
+      <entry key="M10" value="11.656540488907234" />
+      <entry key="M15" value="12.330198832912554" />
+      <entry key="M30" value="13.10475686011612" />
+      <entry key="H1" value="13.535899965386378" />
+      <entry key="H2" value="13.763641013276466" />
+      <entry key="H4" value="13.880718567793771" />
+      <entry key="D1" value="13.979964568406848" />
+      <entry key="W1" value="13.997133966522007" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="4.499096956818484E-13" />
+      <entry key="MS500" value="0.004472894077685253" />
+      <entry key="S2" value="0.5450767301993429" />
+      <entry key="S5" value="2.154257489391894" />
+      <entry key="S10" value="3.966087876331652" />
+      <entry key="S30" value="8.571037295164293" />
+      <entry key="S60" value="15.778300532265844" />
+      <entry key="M2" value="28.3233346034028" />
+      <entry key="M5" value="49.324442590298666" />
+      <entry key="M10" value="62.94160645039259" />
+      <entry key="M15" value="68.90595787802535" />
+      <entry key="M30" value="75.84880526785473" />
+      <entry key="H1" value="79.75651317102077" />
+      <entry key="H2" value="81.83392357633375" />
+      <entry key="H4" value="82.90556564813481" />
+      <entry key="D1" value="83.81598404232676" />
+      <entry key="W1" value="83.97367220794337" />
+    </decayedShown>
   </component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 5,
@@ -40,7 +114,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
-    ".NET Launch Settings Profile.CatchUpPlatform.API: http.executor": "Debug",
+    ".NET Launch Settings Profile.CatchUpPlatform.API: http.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.MCP Project settings loaded": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -51,9 +125,14 @@
     "cidr.known.project.marker": "true",
     "codeWithMe.voiceChat.enabledByDefault": "false",
     "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
-    "git-widget-placeholder": "main",
+    "git-widget-placeholder": "feature/project-configuration",
     "junie.onboarding.icon.badge.shown": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable",
     "to.speed.mode.migration.done": "true"
   }
 }]]></component>
@@ -99,14 +178,37 @@
       <option name="presentableId" value="Default" />
       <updated>1792425790889</updated>
     </task>
+    <task id="LOCAL-00001" summary="chore: initial commit">
+      <option name="closed" value="true" />
+      <created>1792426253460</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1792426253460</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="UnityCheckinConfiguration" checkUnsavedScenes="true" />
   <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+    <MESSAGE value="chore: initial commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="chore: initial commit" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -125,5 +227,9 @@
         </breakpoint>
       </breakpoints>
     </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
